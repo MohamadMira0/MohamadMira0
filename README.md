@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Mohammed Mira 👋</h1>
-<h3 align="center">Full Stack Developer | Mechatronics Engineering Student</h3>
+<h3 align="center">Full Stack Developer | Mechatronics Engineering</h3>
 
 <p align="center">
 🎓 Final-year student at the Faculty of Electrical and Electronic Engineering – Mechatronics Department, University of Aleppo (Graduating 2025)<br/>
