@@ -32,7 +32,7 @@
 ---
 
 ### 📌 Notable Projects
-- **Arabic All The Time** – Platform for teaching Arabic to foreigners, with roles, dashboards, video uploads, and content management.  
+- **Arabic All The Time** – Platform for teaching Arabic to foreigners, with roles, dashboards, video uploads, and content management ([arabicallthetime.com](https://arabicallthetime.com)).
 - **Medi-Top** – Web and mobile app connecting doctors, pharmacies, students, and warehouses; live in Syria, with ongoing web version development ([medi-top.net](https://medi-top.net)).  
 - **E-Learning & CMS Projects** – LMS platforms, interactive content management systems, and educational tools.
 
